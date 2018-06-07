@@ -2,7 +2,12 @@
 > 📃 General documentation and setup.
 
 ## 📖 Introduction
-This repository explains the use of this github organization and how repositories are structured. Aimed at developer at &samhoud to continue working on these projects or make changes.
+This repository explains the use of this github organization and how repositories are structured. Aimed at developer at &samhoud to continue working on these projects or make changes. If you need more information about the project as a whole and why this organization exists you can find more documentation here:
+
+* [Biography](https://productbiografie.dandevri.es/)
+* [Rationale](http://rationale.dandevri.es/)
+
+*Please
 
 ## Access
 
