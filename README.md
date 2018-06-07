@@ -7,7 +7,7 @@ This repository explains the use of this github organization and how repositorie
 * [Biography](https://productbiografie.dandevri.es/)
 * [Rationale](http://rationale.dandevri.es/)
 
-*Please
+*Please note that all of this is in dutch.*
 
 ## Access
 
